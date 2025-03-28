@@ -35,9 +35,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="비밀번호"
-        android:textSize="15dp"
         android:inputType="textPassword"
-        android:paddingBottom="17dp" />
+        android:paddingBottom="17dp"
+        android:textSize="15dp"
+        android:background="@drawable/custom_edittext"/>
 
     <TextView
         android:layout_width="match_parent"
